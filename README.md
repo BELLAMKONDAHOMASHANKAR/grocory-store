@@ -8,14 +8,6 @@ Next.js - React demo store to receive orders via whatsapp api
 Clone or download repo and install dependencies
 ```bash
 npm install
+set NODE_OPTIONS=--openssl-legacy-provider
 npm run dev
 ```
-
-## Usage
-
-```bash
-npm run dev
-```
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
